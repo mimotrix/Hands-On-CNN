@@ -1,2 +1,2 @@
-# deep-learning-up-and-running
-several implementations of deep learning problems 
+# Hands On CNN
+several implementations of Convolutional Neural Networks problems  
